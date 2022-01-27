@@ -2,6 +2,8 @@
 
 Dependencies: ASP.Net Core 6
 
+To run the application:
+
 1. Configure the application by running npm install in the /client directory
 
 2. Start the application by simply double clicking on run.bat script in the root directory
